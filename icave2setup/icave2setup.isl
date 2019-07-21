@@ -4108,7 +4108,7 @@
 		<row><td>ID_STRING11</td><td>1033</td><td>*=-Path</td><td>0</td><td/><td>-1549281450</td></row>
 		<row><td>ID_STRING12</td><td>1033</td><td>[~];[INSTALLDIR]OpenDDSLibraries</td><td>0</td><td/><td>-1549299882</td></row>
 		<row><td>ID_STRING2</td><td>1033</td><td>UB MRI</td><td>0</td><td/><td>-1549278891</td></row>
-		<row><td>ID_STRING3</td><td>1033</td><td>iCAVE2</td><td>0</td><td/><td>-1549335178</td></row>
+		<row><td>ID_STRING3</td><td>1033</td><td>iCAVE2 UB</td><td>0</td><td/><td>-1549290537</td></row>
 		<row><td>ID_STRING4</td><td>1033</td><td>Start OpenDDS</td><td>0</td><td/><td>-1549333066</td></row>
 		<row><td>ID_STRING5</td><td>1033</td><td>Config OpenDDS client</td><td>0</td><td/><td>-1549322762</td></row>
 		<row><td>ID_STRING6</td><td>1033</td><td>Uninstall iCAVE2</td><td>0</td><td/><td>-1549281770</td></row>
