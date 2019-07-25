@@ -4233,6 +4233,7 @@
 		<row><td>NewShortcut2_84B5C4F25CA64096A4DAD84B258E87F5.exe</td><td/><td>&lt;SystemFolder&gt;\shell32.dll</td><td>69</td></row>
 		<row><td>NewShortcut3_FEDB83F80BEA45429169F6B2C3A02932.exe</td><td/><td>C:\Program Files (x86)\InstallShield\2015LE\Redist\Language Independent\OS Independent\uninstall.ico</td><td>0</td></row>
 		<row><td>NewShortcut4_C2137F4DDACE4EB08C4CE1B77198DBDA.exe</td><td/><td>&lt;SystemFolder&gt;\shell32.dll</td><td>93</td></row>
+		<row><td>NewShortcut5_976D75BC914C4BB984FAD8B8DE815F8F.exe</td><td/><td>&lt;SystemFolder&gt;\shell32.dll</td><td>20</td></row>
 		<row><td>NewShortcut6_A3FE0BFB31FB428290A8F9B39FA84608.exe</td><td/><td>&lt;SystemFolder&gt;\shell32.dll</td><td>300</td></row>
 		<row><td>NewShortcut7_749E96F788D24C85A05A8D3EB9E302A2.exe</td><td/><td>&lt;SystemFolder&gt;\shell32.dll</td><td>250</td></row>
 	</table>
@@ -4676,6 +4677,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S255">ISComments</col>
 		<row><td>ALLUSERS</td><td>1</td><td/></row>
 		<row><td>ARPINSTALLLOCATION</td><td/><td/></row>
+		<row><td>ARPNOMODIFY</td><td>1</td><td/></row>
 		<row><td>ARPPRODUCTICON</td><td>ARPPRODUCTICON.exe</td><td/></row>
 		<row><td>ARPSIZE</td><td/><td/></row>
 		<row><td>ARPURLINFOABOUT</td><td>##ID_STRING1##</td><td/></row>
@@ -4916,7 +4918,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>NewShortcut2</td><td>newfolder1</td><td>##ID_STRING5##</td><td>ISX_DEFAULTCOMPONENT</td><td>[INSTALLDIR]Bin\edit_rtps_ini.bat</td><td/><td/><td/><td>NewShortcut2_84B5C4F25CA64096A4DAD84B258E87F5.exe</td><td>1</td><td>1</td><td>BIN</td><td/><td/><td/><td/><td/><td/><td/></row>
 		<row><td>NewShortcut3</td><td>newfolder1</td><td>##ID_STRING6##</td><td>ISX_DEFAULTCOMPONENT3</td><td>[SystemFolder]MsiExec.exe</td><td>/x [ProductCode]</td><td/><td/><td>NewShortcut3_FEDB83F80BEA45429169F6B2C3A02932.exe</td><td>0</td><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
 		<row><td>NewShortcut4</td><td>newfolder1</td><td>##ID_STRING7##</td><td>vissimdds.exe</td><td>[INSTALLDIR]Bin\vissimdds.exe</td><td>-DCPSConfigFile rtps.ini</td><td/><td/><td>NewShortcut4_C2137F4DDACE4EB08C4CE1B77198DBDA.exe</td><td>1</td><td>1</td><td>BIN</td><td/><td/><td/><td/><td/><td/><td/></row>
-		<row><td>NewShortcut5</td><td>newfolder1</td><td>##ID_STRING8##</td><td>ISX_DEFAULTCOMPONENT</td><td>[INSTALLDIR]Bin\edit_repo_bat.bat</td><td/><td/><td/><td/><td/><td>1</td><td/><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>NewShortcut5</td><td>newfolder1</td><td>##ID_STRING8##</td><td>ISX_DEFAULTCOMPONENT</td><td>[INSTALLDIR]Bin\edit_repo_bat.bat</td><td/><td/><td/><td>NewShortcut5_976D75BC914C4BB984FAD8B8DE815F8F.exe</td><td>1</td><td>1</td><td>BIN</td><td/><td/><td/><td/><td/><td/><td/></row>
 		<row><td>NewShortcut6</td><td>newfolder1</td><td>##ID_STRING9##</td><td>ns3.exe</td><td>[INSTALLDIR]Bin\ns3.exe</td><td>-DCPSConfigFile rtps.ini</td><td/><td/><td>NewShortcut6_A3FE0BFB31FB428290A8F9B39FA84608.exe</td><td>1</td><td>1</td><td>BIN</td><td/><td/><td/><td/><td/><td/><td/></row>
 		<row><td>NewShortcut7</td><td>newfolder1</td><td>##ID_STRING10##</td><td>v2x.exe</td><td>[INSTALLDIR]Bin\v2x.exe</td><td>-DCPSConfigFile rtps.ini</td><td/><td/><td>NewShortcut7_749E96F788D24C85A05A8D3EB9E302A2.exe</td><td>1</td><td>1</td><td>BIN</td><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
